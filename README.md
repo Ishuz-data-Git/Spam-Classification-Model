@@ -1,5 +1,8 @@
 📌 README.md (FINAL VERSION)
 # SMS Spam Classification 📱🚫
+### Model Screenshot
+
+https://github.com/Ishuz-data-Git/Spam-Classification-Model/blob/main/Add%20project%20screenshot.png?raw=true
 
 A Machine Learning project that classifies SMS messages as Spam or Ham (Not Spam) using TF-IDF Vectorization and Multinomial Naive Bayes.
 
